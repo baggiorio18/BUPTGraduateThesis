@@ -1,9 +1,11 @@
 Version
 ==================
-请注意：BUPTGraduateThesis已经更新至v6.0，为了稳定的互联网访问，本项目已经转移到GitCafe下托管，GitHub中只更新到v5.4，自v6.0起不再更新。关于最新版本，请移步GitCafe下的主页（ https://gitcafe.com/rioxwang/BUPTGraduateThesis ）。
-v5.4，可以通过Git命令获得：
+请注意：BUPTGraduateThesis已经更新至v6.0。然而由于一些个人原因，本项目已经转移到[GitHub的rioxwang](https://github.com/rioxwang/BUPTGraduateThesis)账户之下，baggiorio18账户*只更新到v5.4，自v6.0起不再更新*，给大家带来的不便还请见谅。另外，为了稳定的互联网访问，本项目同步在[GitCafe](https://gitcafe.com/rioxwang/BUPTGraduateThesis)下托管。请大家移步这两个链接。
 
-    git clone https://github.com/baggiorio18/BUPTGraduateThesis.git
+最新版可以在以上项目主页直接下载ZIP压缩包获得，也可以通过如下任意一条git命令选择一个网速较快的服务器获得：
+
+    git clone https://github.com/rioxwang/BUPTGraduateThesis.git
+    git clone https://gitcafe.com/rioxwang/BUPTGraduateThesis.git
 
 About
 ==================
